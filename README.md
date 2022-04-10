@@ -82,7 +82,7 @@ My work is born from commitment and responsibility and aims for the satisfaction
 
 ### Contact with me: 📲
 
-  <a href="ricardoprato36@gmail.com" alt="Gmail">
+  <a mailto="ricardoprato36@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/ricardoprato/" alt="Linkedin">
