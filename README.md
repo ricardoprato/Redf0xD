@@ -76,7 +76,6 @@ My work is born from commitment and responsibility and aims for the satisfaction
 <div>
  <img src="https://img.shields.io/badge/typescript-092f5f?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/React_Native-009cc7?style=for-the-badge&logo=react&logoColor=white">
- <img src="https://img.shields.io/badge/Postman-f06632?style=for-the-badge&logo=postman&logoColor=white">
  <img src="https://img.shields.io/badge/Algolia-5063f2?style=for-the-badge&logo=algolia&logoColor=white">
 </div>
 
