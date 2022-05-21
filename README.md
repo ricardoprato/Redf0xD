@@ -1,7 +1,3 @@
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
 
 <div align="center">
 
