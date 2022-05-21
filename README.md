@@ -4,7 +4,7 @@
 
 ## A passionate Full Stack Developer from Venezuelan
 
-<img  width="30%" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+<img  width="30%" alt="GIF" align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
 </div>
 <br>
 <p align="center">
