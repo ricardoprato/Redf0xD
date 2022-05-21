@@ -1,10 +1,16 @@
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
+
 <div align="center">
 
 # Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ricardo Prato 💻
 
 ## A passionate Full Stack Developer from Venezuelan
+  
+![my image](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif#center)  
 
-<center><img  width="30%" alt="GIF" align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/></center>
 </div>
 <br>
 <p align="center">
