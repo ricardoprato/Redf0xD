@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ricardo Prato 💻
+# Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">, I'm Ricardo Prato 💻
 
 ## A passionate Full Stack Developer from Venezuelan
   
