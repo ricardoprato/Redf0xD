@@ -9,22 +9,11 @@
 
 </div>
 <br>
-<p align="center">
-  <a href="https://github.com/Redf0xD">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=Redf0xD&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/Redf0xD">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redf0xD&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redf0xd&show_icons=true&locale=en&layout=compact" alt="redf0xd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redf0xd&show_icons=true&locale=en" alt="redf0xd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redf0xd&" alt="redf0xd" /></p>
 
 <div align="center">
 <details>
