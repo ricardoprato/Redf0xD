@@ -9,11 +9,27 @@
 
 </div>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redf0xd&show_icons=true&locale=en&layout=compact" alt="redf0xd" /></p>
+<p align="center">
+  <a href="https://github.com/Redf0xD">
+    <img
+      align="center"
+      height="135em"
+      src="https://github-readme-stats.vercel.app/api?username=Redf0xD&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/Redf0xD">
+    <img
+      align="center"
+      height="135em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redf0xD&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/Redf0xD">
+    <img align="center"  height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=redf0xd&theme=tokyonight" alt="redf0xd" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redf0xd&show_icons=true&locale=en" alt="redf0xd" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=redf0xd&" alt="redf0xd" /></p>
+<br>
 
 <div align="center">
 <details>
@@ -36,6 +52,7 @@ My work is born from commitment and responsibility and aims for the satisfaction
  <img src="https://img.shields.io/badge/CSS-0066b6?&style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/Javascript-cbb132?&style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/solidity-393939?style=for-the-badge&logo=solidity&logoColor=black">
 </div>
 <div>
  <img src="https://img.shields.io/badge/React-009cc7?style=for-the-badge&logo=react&logoColor=white">
