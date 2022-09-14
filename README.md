@@ -57,6 +57,12 @@
  <img src="https://img.shields.io/badge/Postman-f06632?style=for-the-badge&logo=postman&logoColor=white">
  <img src="https://img.shields.io/badge/NPM-f2f2f2?style=for-the-badge&logo=npm&logoColor=white">
  <img src="https://img.shields.io/badge/Neovim-3f3f3f?style=for-the-badge&logo=neovim">
+ <img src="https://img.shields.io/badge/docker-293232?style=for-the-badge&logo=docker"/>
+ <img src="https://img.shields.io/badge/python-cab246?style=for-the-badge&logo=python"/>
+ <img src="https://img.shields.io/badge/IPFS-white?style=for-the-badge&logo=ipfs"/>
+ <img src="https://img.shields.io/badge/openzeppelin-63d3fa?style=for-the-badge&logo=openzeppelin"/>
+ <img src="https://img.shields.io/badge/hardhat-fff100?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/web3-e66d2d?style=for-the-badge"/>
 </div>
 
 
@@ -67,13 +73,13 @@
 ### Contact with me: 📲
 
   <a href="mailto:ricardoprato36@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/ricardoprato/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   
   <a href="https://twitter.com/RedfoxD_" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=LINK-DO-SEU-TWITTER" /></a>
+  <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white" /></a>
 
 
 
