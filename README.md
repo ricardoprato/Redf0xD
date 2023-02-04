@@ -15,6 +15,7 @@
 - 🤝  I'm open to collaborating on Web3 projects
 - ⚡  Fun fact: I ❤️🐶s and video-games 🎮
 ### Stats 📊
+
   <a href="https://github.com/Redf0xD">
     <img
       align="center"
@@ -29,9 +30,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redf0xD&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/Redf0xD">
-    <img align="center"  height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=redf0xd&theme=tokyonight" alt="redf0xd" />
-  </a>
+
+
 
 ### Skills and Tools: 🧰
 
