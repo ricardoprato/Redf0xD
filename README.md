@@ -16,14 +16,14 @@
 - ⚡  Fun fact: I ❤️🐶s and video-games 🎮
 ### Stats 📊
 
-  <a href="https://github.com/Redf0xD">
+  <a href="https://github.com/ricardoprato">
     <img
       align="center"
       height="130em"
       src="https://github-readme-stats.vercel.app/api?username=Redf0xD&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/Redf0xD">
+  <a href="https://github.com/ricardoprato">
     <img
       align="center"
       height="130em"
