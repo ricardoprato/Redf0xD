@@ -20,14 +20,14 @@
     <img
       align="center"
       height="130em"
-      src="https://github-readme-stats.vercel.app/api?username=Redf0xD&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=ricardoprato&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/ricardoprato">
     <img
       align="center"
       height="130em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redf0xD&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoprato&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
 
