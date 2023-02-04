@@ -9,7 +9,7 @@
 
 ### About me 🤓
 - 🚀  I’m currently working on something cool 🐱‍💻
-- 🌍  I'm based in Venezuela
+- 🌍  I'm based in Argentina
 - ✉️  You can contact me at ricardoprato36@gmail.com
 - 🧠  I'm learning Blockchain and Ethereum
 - 🤝  I'm open to collaborating on Web3 projects
@@ -78,7 +78,7 @@
   <a href="https://www.linkedin.com/in/ricardoprato/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   
-  <a href="https://twitter.com/RedfoxD_" alt="Twitter">
+  <a href="https://twitter.com/ricardoprato07" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white" /></a>
 
 
